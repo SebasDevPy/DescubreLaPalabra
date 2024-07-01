@@ -1,4 +1,3 @@
-[![trabajo-1.png](https://i.postimg.cc/YCb505r8/trabajo-1.png)](https://postimg.cc/RWJsbbnn)
 
 # parcial°2 de programacion
 
@@ -14,9 +13,8 @@
 ### Sobre el juego: 
 
 El juego comienza con una pantalla de inicio que, principalmente, pedirá tu nombre para poder guardar tu desempeño mediante tu score, que se registrará junto con tu nombre o nickname. No se permitirán espacios, y si esto ocurre, el juego te dará una advertencia.
+[pantalla-de-inicio.png](https://postimg.cc/tsZ3KZyP)
 
-
-<img width="700" alt="pantalla de inicio" src="https://github.com/Rias05/ejemplo.makdown/assets/119630600/8d66c547-8db5-4ebb-a59b-4479a617c12a">
 
 
 Después de pedirle al usuario su nickname, comenzará la "**Pantalla de Juego**". Aquí es donde se desarrollará toda la funcionalidad del juego. En esta pantalla se mostrará una palabra de 6 letras, la cual estará desordenada visualmente para el jugador. Estas letras estarán dibujadas como burbujas.
