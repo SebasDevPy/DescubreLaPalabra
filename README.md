@@ -35,11 +35,17 @@ Si el tiempo llega a 0, aparecerá una pequeña ventana que te dará dos opcione
 
 Al haber presionado "No" o "Si" tus partidas llegaron al límite de 3, se mostrará una pantalla en un pequeño lapso de tiempo que indicará tu puntaje durante tus partidas.
 
-[![pantalla-resultado.png](https://i.postimg.cc/kGpn42dD/pantalla-resultado.png)](https://postimg.cc/zHTm2Xv1)
+
+[![pantallapuntaje.png](https://i.postimg.cc/bNPJZtbS/pantallapuntaje.png)](https://postimg.cc/yWfB5WL7)
+
+
 
 Lo siguiente será la pantalla final, la parte que finalizará el juego. En esta pantalla se mostrará el top 5 de los mayores scores guardados en el juego junto con su respectivo nickname. Habrá un botón Close que cerrará el programa y con esto finalizará el juego.
 
-[![pantallatop5-score.png](https://i.postimg.cc/KzsX7CpH/pantallatop5-score.png)](https://postimg.cc/ftXgDqNc)
+
+
+[![scores.png](https://i.postimg.cc/XJFjJjYg/scores.png)](https://postimg.cc/gXzFtPRw)
+
 
 ## LOGICA DE JUEGO:
 
@@ -80,7 +86,8 @@ Estos atributos asegurarán que todos los elementos gráficos y de lógica esté
 ### clase_juego
 En este archivo se desenvuelve el funcionamiento principal del juego, dando a su funcionamiento el proceso principal del mismo. Aqui encontraremos funciones que desordenan palabras, las compara con lo ingresado por el usuario y valida que sean correctas para sumar puntos (1 punto por cada caracter de la palabra formada); se controla el tiempo de duración de cada partida y el posicionamiento de las imagenes del juego.
 
-<img width="539" alt="image" src="https://github.com/Rias05/ejemplo.makdown/assets/119630600/e708c7b8-1686-40f8-9ffd-1bd65f2a90fb">
+
+[![clase-juego.png](https://i.postimg.cc/CL8114zg/clase-juego.png)](https://postimg.cc/F79mC3yW)
 
 ### clase_continuar:
 
