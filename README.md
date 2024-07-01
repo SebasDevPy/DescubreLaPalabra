@@ -13,6 +13,9 @@
 ### Sobre el juego: 
 
 El juego comienza con una pantalla de inicio que, principalmente, pedirá tu nombre para poder guardar tu desempeño mediante tu score, que se registrará junto con tu nombre o nickname. No se permitirán espacios, y si esto ocurre, el juego te dará una advertencia.
+
+
+
 [pantalla-de-inicio.png](https://postimg.cc/tsZ3KZyP)
 
 
