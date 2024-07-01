@@ -83,10 +83,11 @@ Estos atributos asegurarán que todos los elementos gráficos y de lógica esté
 
 - actualizaremos constantemente el fondo de pantalla
 - bliearemos los distintitos rects, botones, textos,avisos
--  mediante uan funcion llamada **validar_espacioes** que si encuentra mas de un espacio(**" "**) en en el texto ingresado si pasa esta validacion se hara aviso al usario mediante un texto que se bliteara una determinda cordenada dentro del cuadro donde esta el rect y eliminaremos el texto ingresado,
+-  mediante una funcion llamada **validar_espacioes** que si encuentra mas de un espacio(**" "**) en en el texto ingresado si pasa esta validacion se hara aviso al usario mediante un texto que se bliteara una determinda cordenada dentro del cuadro donde esta el rect y eliminaremos el texto ingresado,
 
 
-<img width="599" alt="image" src="https://github.com/Rias05/ejemplo.makdown/assets/119630600/865b9b66-5cf3-49d9-9c9e-89a8f3825216">
+[![3.png](https://i.postimg.cc/sDtrNB9D/3.png)](https://postimg.cc/7fMdCZWp)
+
 
 ### clase_juego
 En este archivo se desenvuelve el funcionamiento principal del juego, dando a su funcionamiento el proceso principal del mismo. Aqui encontraremos funciones que desordenan palabras, las compara con lo ingresado por el usuario y valida que sean correctas para sumar puntos (1 punto por cada caracter de la palabra formada); se controla el tiempo de duración de cada partida y el posicionamiento de las imagenes del juego.
