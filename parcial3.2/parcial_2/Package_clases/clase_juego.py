@@ -28,7 +28,7 @@ class Juego:
         self.entrada_jugador = ""
         self.puntos_jugador = 0
         self.tiempo_inicio = time.time()
-        self.tiempo_limite = 25
+        self.tiempo_limite = 90
         self.puntuacion = puntuacion_inicial
         self.en_juego = True
         self.palabras_acertadas = []
@@ -196,7 +196,7 @@ class Juego:
     def nueva_partida(self):
         # No reiniciar la puntuación aquí, solo reiniciar otras variables
         self.tiempo_inicio = time.time()
-        self.tiempo_limite = 25
+        self.tiempo_limite = 90
         self.en_juego = True
         self.entrada_jugador = ""
         self.cambiar_palabra_actual(self.palabras_y_validas)
