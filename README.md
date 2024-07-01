@@ -37,8 +37,6 @@ Al haber presionado "No" o "Si" tus partidas llegaron al límite de 3, se mostra
 
 [![pantalla-resultado.png](https://i.postimg.cc/kGpn42dD/pantalla-resultado.png)](https://postimg.cc/zHTm2Xv1)
 
-
-
 Lo siguiente será la pantalla final, la parte que finalizará el juego. En esta pantalla se mostrará el top 5 de los mayores scores guardados en el juego junto con su respectivo nickname. Habrá un botón Close que cerrará el programa y con esto finalizará el juego.
 
 [![pantallatop5-score.png](https://i.postimg.cc/KzsX7CpH/pantallatop5-score.png)](https://postimg.cc/ftXgDqNc)
@@ -56,8 +54,7 @@ Comenzamos con la clase Inicio que inicializará atributos para:
 - un rectangulo**input box** que este sera donde el usuario podra escribir su name
 Estos atributos asegurarán que todos los elementos gráficos y de lógica estén preparados para la pantalla de inicio del juego.
 
-<img width="553" alt="image" src="https://github.com/Rias05/ejemplo.makdown/assets/119630600/4a6a64c3-fdfc-4a98-bd5e-798219132e05">
-
+[![image.png](https://i.postimg.cc/4xK1nqp3/image.png)](https://postimg.cc/HrgMhSZG)
 
 - Seguiremos con el bucle de esta pantalla, que pertenecerá a un método de la clase Inicio. El while será la principal funcionalidad. Tomaremos los eventos, que serán las distintas acciones que hará la persona, y Pygame las interpretará como presionar teclas, mover el mouse, hacer clics, etc. Esto lo haremos con un for, iterando sobre los distintos eventos.
 
