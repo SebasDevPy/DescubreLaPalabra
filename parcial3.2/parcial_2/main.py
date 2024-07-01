@@ -10,40 +10,40 @@ pygame.init()
 #
 palabras_y_validas = [
     {
-        "palabra_base": "CADENA",
-        "palabras_validas": ["CANA", "CADENA", "CENA", "DACA", "NADA"]
+        "palabra_base": "cadena",
+        "palabras_validas": ["cana", "cadena", "cena", "daca", "nada"]
     },
     {
-        "palabra_base": "ROPERO",
-        "palabras_validas": ["PERO", "PERRO", "OREO", "POR", "PRO", "REO", "ROPERO"]
+        "palabra_base": "ropero",
+        "palabras_validas": ["pero", "perro", "oreo", "por", "pro", "reo", "ropero"]
     },
     {
-        "palabra_base": "CIUDAD",
-        "palabras_validas": ["CUIDA", "CIUDAD", "DICUA", "CID", "IDA", "DIA"]
+        "palabra_base": "ciudad",
+        "palabras_validas": ["cuida", "ciudad", "dicua", "cid", "ida", "dia"]
     },
     {
-        "palabra_base": "FRESCA",
-        "palabras_validas": ["FRESCA", "FRESA", "CAFRE", "CERA", "SER", "CESAR", "ARCE"]
+        "palabra_base": "fresca",
+        "palabras_validas": ["fresca", "fresa", "cafre", "cera", "ser", "cesar", "arce","res"]
     },
     {
-        "palabra_base": "RASTRO",
-        "palabras_validas": ["RASTRO", "TRASO", "TORA", "ROTA", "RATO", "TARO", "ASTRO", "RAS"]
+        "palabra_base": "rastro",
+        "palabras_validas": ["rastro", "traso", "tora", "rota", "rato", "astro", "ras"]
     },
     {
-        "palabra_base": "RIESGO",
-        "palabras_validas": ["SER", "REGIO", "RIES", "RIESGO", "EGO", "GIRO", "GIROS", "RIE"]
+        "palabra_base": "riesgo",
+        "palabras_validas": ["ser", "regio", "ries", "riesgo", "rgo", "giro", "giros", "rie","sergio"]
     },
     {
-        "palabra_base": "CARTEL",
-        "palabras_validas": ["CARTEL", "RECTA", "TELA", "CALTE"]
+        "palabra_base": "cartel",
+        "palabras_validas": ["cartel", "recta", "tela", "calte"]
     },
     {
-        "palabra_base": "FRESAS",
-        "palabras_validas": ["FRESAS", "SERAF", "SAFER", "SEAR", "FRESA"]
+        "palabra_base": "fresas",
+        "palabras_validas": ["fresas", "seraf", "safer", "sear", "fresa","ser","res"]
     },
     {
-        "palabra_base": "ANIMAL",
-        "palabras_validas": ["ANIMA", "MINA", "LAMINA", "ANIMAL"]
+        "palabra_base": "animal",
+        "palabras_validas": ["anima", "mina", "lamina", "animal","mal","mil","lima"]
     }
 ]
 
