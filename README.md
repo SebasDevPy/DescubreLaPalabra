@@ -16,8 +16,7 @@ El juego comienza con una pantalla de inicio que, principalmente, pedirá tu nom
 
 
 
-[pantalla-de-inicio.png](https://postimg.cc/tsZ3KZyP)
-
+[![pantalla-de-inicio.png](https://i.postimg.cc/CxJcfkQv/pantalla-de-inicio.png)](https://postimg.cc/tsZ3KZyP)
 
 
 Después de pedirle al usuario su nickname, comenzará la "**Pantalla de Juego**". Aquí es donde se desarrollará toda la funcionalidad del juego. En esta pantalla se mostrará una palabra de 6 letras, la cual estará desordenada visualmente para el jugador. Estas letras estarán dibujadas como burbujas.
