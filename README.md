@@ -60,7 +60,10 @@ Comenzamos con la clase Inicio que inicializará atributos para:
 - un rectangulo**input box** que este sera donde el usuario podra escribir su name
 Estos atributos asegurarán que todos los elementos gráficos y de lógica estén preparados para la pantalla de inicio del juego.
 
-[![image.png](https://i.postimg.cc/4xK1nqp3/image.png)](https://postimg.cc/HrgMhSZG)
+
+[![iniciar.png](https://i.postimg.cc/Kc0cJvHR/iniciar.png)](https://postimg.cc/PN8kqhhj)
+
+
 
 - Seguiremos con el bucle de esta pantalla, que pertenecerá a un método de la clase Inicio. El while será la principal funcionalidad. Tomaremos los eventos, que serán las distintas acciones que hará la persona, y Pygame las interpretará como presionar teclas, mover el mouse, hacer clics, etc. Esto lo haremos con un for, iterando sobre los distintos eventos.
 
@@ -72,8 +75,10 @@ Estos atributos asegurarán que todos los elementos gráficos y de lógica esté
 
 
 
+[![2.png](https://i.postimg.cc/7hRkDhF9/2.png)](https://postimg.cc/0K730k2K)
 
-<img width="700" alt="image" src="https://github.com/Rias05/ejemplo.makdown/assets/119630600/28b4f944-b566-48bc-86a2-5d080a4d3da6">
+
+
 
 
 - actualizaremos constantemente el fondo de pantalla
