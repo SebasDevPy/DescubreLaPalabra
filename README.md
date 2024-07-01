@@ -106,7 +106,12 @@ Este archivo tiene la funcionalidad de mostrar en una nueva ventana la puntuacio
 
 
 
-[![clasefinal.png](https://i.postimg.cc/HsnN4Sbq/clasefinal.png)](https://postimg.cc/crqTdB9h)   
+[![final3.png](https://i.postimg.cc/5tDLHSwW/final3.png)](https://postimg.cc/Ny75STJd)
+
+
+
+
+dsdsss
 
 
 ### Package_funciones:
