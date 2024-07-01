@@ -8,11 +8,12 @@
   
 ## 🎮**JUEGO**:
 
-![titulo_inicio](https://github.com/Rias05/ejemplo.makdown/assets/119630600/08185309-33d2-4823-aebd-eafa88d1760b)
+[![titulo-inicio.png](https://i.postimg.cc/1XHqYc62/titulo-inicio.png)](https://postimg.cc/K31j1T0D)
 
 ### Sobre el juego: 
 
 El juego comienza con una pantalla de inicio que, principalmente, pedirá tu nombre para poder guardar tu desempeño mediante tu score, que se registrará junto con tu nombre o nickname. No se permitirán espacios, y si esto ocurre, el juego te dará una advertencia.
+
 
 
 
@@ -26,29 +27,21 @@ Debajo de las burbujas, habrá un rectángulo que mostrará la puntuación (scor
 Por último, debajo de este rectángulo se mostrarán todas las palabras acertadas que el jugador haya formado. La partida finalizará cuando se acabe el tiempo o cuando ya no haya más palabras que formar.
 
 
-
-
-
-<img width="700" alt="image" src="https://github.com/Rias05/ejemplo.makdown/assets/119630600/ea42a445-c248-44eb-8bec-95206aab8c98">
-
+[![pantalla-del-juego.png](https://i.postimg.cc/mZ8kJrJv/pantalla-del-juego.png)](https://postimg.cc/s1G3Z3Vm)
 
 Si el tiempo llega a 0, aparecerá una pequeña ventana que te dará dos opciones: "Sí" y "No". Dependiendo de tu elección, continuarás jugando hasta completar tres partidas o terminarás tu partida, guardando tu score.
 
-
-<img width="500" alt="image" src="https://github.com/Rias05/ejemplo.makdown/assets/119630600/050a9f50-afae-4955-b175-1cc3c91a23f2">
+[![pantalla-continuar.png](https://i.postimg.cc/fbcTKWYg/pantalla-continuar.png)](https://postimg.cc/QBM3N34p)
 
 Al haber presionado "No" o "Si" tus partidas llegaron al límite de 3, se mostrará una pantalla en un pequeño lapso de tiempo que indicará tu puntaje durante tus partidas.
-<img width="840" alt="image" src="https://github.com/Rias05/ejemplo.makdown/assets/119630600/4ab8e6ab-0718-474e-af49-1f16650a645e">
 
+[![pantalla-resultado.png](https://i.postimg.cc/kGpn42dD/pantalla-resultado.png)](https://postimg.cc/zHTm2Xv1)
 
 
 
 Lo siguiente será la pantalla final, la parte que finalizará el juego. En esta pantalla se mostrará el top 5 de los mayores scores guardados en el juego junto con su respectivo nickname. Habrá un botón Close que cerrará el programa y con esto finalizará el juego.
 
-<img width="700" alt="image" src="https://github.com/Rias05/ejemplo.makdown/assets/119630600/79679234-23b2-4f14-b026-a0c6a4d8b782">
-
-
-
+[![pantallatop5-score.png](https://i.postimg.cc/KzsX7CpH/pantallatop5-score.png)](https://postimg.cc/ftXgDqNc)
 
 ## LOGICA DE JUEGO:
 
