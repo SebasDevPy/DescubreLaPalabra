@@ -111,15 +111,7 @@ En este archivo funciona una ventana emergente la cual avisa al usuario que pued
 
 Este archivo tiene la funcionalidad de mostrar en una nueva ventana la puntuacion de los mejores jugadores que han participado en el videojuego.
 
-
-
-[![final3.png](https://i.postimg.cc/5tDLHSwW/final3.png)](https://postimg.cc/Ny75STJd)
-
-
-
-
-dsdsss
-
+[![Captura-de-pantalla-2024-07-01-132910.png](https://i.postimg.cc/4xsggDMr/Captura-de-pantalla-2024-07-01-132910.png)](https://postimg.cc/2VcJdKCw)
 
 ### Package_funciones:
 
