@@ -44,7 +44,8 @@ Lo siguiente será la pantalla final, la parte que finalizará el juego. En esta
 
 
 
-[![scores.png](https://i.postimg.cc/XJFjJjYg/scores.png)](https://postimg.cc/gXzFtPRw)
+[![6.png](https://i.postimg.cc/jdVT8whq/6.png)](https://postimg.cc/9zBs0fSs)
+
 
 
 ## LOGICA DE JUEGO:
