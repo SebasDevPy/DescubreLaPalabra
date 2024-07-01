@@ -100,23 +100,32 @@ En este archivo funciona una ventana emergente la cual avisa al usuario que pued
 
 Este archivo tiene la funcionalidad de mostrar en una nueva ventana la puntuacion de los mejores jugadores que han participado en el videojuego.
 
-<img width="503" alt="image" src="https://github.com/Rias05/ejemplo.makdown/assets/119630600/a3a093a1-8cbe-4202-964d-f19c9f1b6c49">
+
+
+[![clasefinal.png](https://i.postimg.cc/HsnN4Sbq/clasefinal.png)](https://postimg.cc/crqTdB9h)   
 
 
 ### Package_funciones:
 
 En este paquete almacenamos validaciones correspondientes al programa, proceso de carga de usuarios y almacenamiento en archivo csv y json para los usuarios creados con su id unica y puntuaciones (en csv) y para json el "nickname" del usuario con su puntuacion.
 
-<img width="500" alt="image" src="https://github.com/Rias05/ejemplo.makdown/assets/119630600/a7157d73-374d-4ebf-91a2-72fc49fe9641">
 
 
-<img width="533" alt="image" src="https://github.com/Rias05/ejemplo.makdown/assets/119630600/1365c58f-a993-481a-acde-3b8dd2c561fe">
+[![csv.png](https://i.postimg.cc/V67RJ8Zd/csv.png)](https://postimg.cc/FdLc6244)
 
 
-<img width="500" alt="image" src="https://github.com/Rias05/ejemplo.makdown/assets/119630600/d657e7c0-0971-40dc-8cdc-ee69f2a7fc62">
+
+cargar jugador
 
 
-<img width="600" alt="image" src="https://github.com/Rias05/ejemplo.makdown/assets/119630600/3cfc6fe3-dbb7-4e52-a248-f06b8886debe">
+
+[![cargarjugador.png](https://i.postimg.cc/JhpYSvVc/cargarjugador.png)](https://postimg.cc/67GhvHQy)
+
+
+
+
+
+
 
 ## BASADO EN:
 
