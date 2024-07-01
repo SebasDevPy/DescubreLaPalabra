@@ -93,7 +93,11 @@ En este archivo se desenvuelve el funcionamiento principal del juego, dando a su
 
 En este archivo funciona una ventana emergente la cual avisa al usuario que puede o no continuar jugando tras la finalizacion de su 1er partida (dando un maximo de 3 oportunidades).
 
-<img width="674" alt="image" src="https://github.com/Rias05/ejemplo.makdown/assets/119630600/80b41aa3-99c2-442c-9db1-c6b60c90a792">
+
+
+[![class-continuar.png](https://i.postimg.cc/rF2jZMR2/class-continuar.png)](https://postimg.cc/z3pTVmkx)
+
+
 
 
 ### clase_final:
