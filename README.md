@@ -1,3 +1,5 @@
+[![trabajo-1.png](https://i.postimg.cc/YCb505r8/trabajo-1.png)](https://postimg.cc/RWJsbbnn)
+
 # parcial°2 de programacion
 
 ### 👥integrantes: 
