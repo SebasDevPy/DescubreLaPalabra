@@ -16,7 +16,7 @@ def leer_puntuaciones_json():
 def guardar_puntuaciones_json(puntuaciones):
     try:
         with open('puntuaciones.json', 'w', enconding="utf-8") as file:
-            json.dump(puntuaciones, file, indent=4)
+            json.dump(puntuaciones, file, indent=4, ensure_ascii=False)
         print("Puntuaciones guardadas correctamente en puntuaciones.json")
     except Exception as e:
         print(f"Error al guardar puntuaciones en JSON: {e}")
