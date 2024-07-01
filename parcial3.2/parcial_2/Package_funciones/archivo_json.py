@@ -2,7 +2,7 @@ import json
 
 def leer_puntuaciones_json():
     try:
-        with open('puntuaciones.json', 'r') as file:
+        with open('puntuaciones.json', 'r', encoding="utf-8") as file:
             puntuaciones = json.load(file)
             puntuaciones_ordenadas = dict(sorted(puntuaciones.items(), key=lambda item: item[1], reverse=True))
     except FileNotFoundError:
@@ -15,7 +15,7 @@ def leer_puntuaciones_json():
 
 def guardar_puntuaciones_json(puntuaciones):
     try:
-        with open('puntuaciones.json', 'w') as file:
+        with open('puntuaciones.json', 'w', enconding="utf-8") as file:
             json.dump(puntuaciones, file, indent=4)
         print("Puntuaciones guardadas correctamente en puntuaciones.json")
     except Exception as e:
