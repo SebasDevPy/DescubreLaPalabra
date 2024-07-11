@@ -71,8 +71,7 @@ Estos atributos asegurarán que todos los elementos gráficos y de lógica esté
 
 
 
-[![2.png](https://i.postimg.cc/7hRkDhF9/2.png)](https://postimg.cc/0K730k2K)
-
+[![1000.png](https://i.postimg.cc/pVSWhN11/1000.png)](https://postimg.cc/5jwdTrJw)
 
 
 
