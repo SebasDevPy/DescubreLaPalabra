@@ -61,6 +61,7 @@ Estos atributos asegurarán que todos los elementos gráficos y de lógica esté
 [![nuevaptanllainico.png](https://i.postimg.cc/pLzLM0Cc/nuevaptanllainico.png)](https://postimg.cc/BjZ0xBd2)
 
 
+
 - Seguiremos con el bucle de esta pantalla, que pertenecerá a un método de la clase Inicio. El while será la principal funcionalidad. Tomaremos los eventos, que serán las distintas acciones que hará la persona, y Pygame las interpretará como presionar teclas, mover el mouse, hacer clics, etc. Esto lo haremos con un for, iterando sobre los distintos eventos.
 
 - Un evento importante para esta parte es el backspace. Este se utiliza cuando queremos verificar si la persona desea borrar lo que está escribiendo en el rect (input). Mediante un slice, se ignorará el último elemento cuando se presione la tecla.
@@ -88,7 +89,7 @@ Estos atributos asegurarán que todos los elementos gráficos y de lógica esté
 En este archivo se desenvuelve el funcionamiento principal del juego, dando a su funcionamiento el proceso principal del mismo. Aqui encontraremos funciones que desordenan palabras, las compara con lo ingresado por el usuario y valida que sean correctas para sumar puntos (1 punto por cada caracter de la palabra formada); se controla el tiempo de duración de cada partida y el posicionamiento de las imagenes del juego.
 
 
-[![clase-juego.png](https://i.postimg.cc/CL8114zg/clase-juego.png)](https://postimg.cc/F79mC3yW)
+[![1950.png](https://i.postimg.cc/bJJPrL0h/1950.png)](https://postimg.cc/d7zpS2SH)
 
 ### clase_continuar:
 
@@ -96,7 +97,8 @@ En este archivo funciona una ventana emergente la cual avisa al usuario que pued
 
 
 
-[![class-continuar.png](https://i.postimg.cc/rF2jZMR2/class-continuar.png)](https://postimg.cc/z3pTVmkx)
+
+[![1901.png](https://i.postimg.cc/Hn8C4xPv/1901.png)](https://postimg.cc/dZFXJqFG)
 
 
 
@@ -105,23 +107,20 @@ En este archivo funciona una ventana emergente la cual avisa al usuario que pued
 
 Este archivo tiene la funcionalidad de mostrar en una nueva ventana la puntuacion de los mejores jugadores que han participado en el videojuego.
 
-[![Captura-de-pantalla-2024-07-01-132910.png](https://i.postimg.cc/4xsggDMr/Captura-de-pantalla-2024-07-01-132910.png)](https://postimg.cc/2VcJdKCw)
+[![1903.png](https://i.postimg.cc/kMLVrt94/1903.png)](https://postimg.cc/V5BsnvJQ)
 
 ### Package_funciones:
 
 En este paquete almacenamos validaciones correspondientes al programa, proceso de carga de usuarios y almacenamiento en archivo csv y json para los usuarios creados con su id unica y puntuaciones (en csv) y para json el "nickname" del usuario con su puntuacion.
 
 
-
-[![csv.png](https://i.postimg.cc/V67RJ8Zd/csv.png)](https://postimg.cc/FdLc6244)
-
+[![1906.png](https://i.postimg.cc/nLVrK4Kd/1906.png)](https://postimg.cc/fVFMD0rX)
 
 
 cargar jugador
 
 
-
-[![cargarjugador.png](https://i.postimg.cc/JhpYSvVc/cargarjugador.png)](https://postimg.cc/67GhvHQy)
+[![1907.png](https://i.postimg.cc/Z5SCntWz/1907.png)](https://postimg.cc/svTVHLPT)
 
 
 
