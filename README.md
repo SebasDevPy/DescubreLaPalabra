@@ -33,10 +33,6 @@ Si el tiempo llega a 0, aparecerá una pequeña ventana que te dará dos opcione
 
 [![pantalla-continuar.png](https://i.postimg.cc/fbcTKWYg/pantalla-continuar.png)](https://postimg.cc/QBM3N34p)
 
-Al haber presionado "No" o "Si" tus partidas llegaron al límite de 3, se mostrará una pantalla en un pequeño lapso de tiempo que indicará tu puntaje durante tus partidas.
-
-
-[![pantallapuntaje.png](https://i.postimg.cc/bNPJZtbS/pantallapuntaje.png)](https://postimg.cc/yWfB5WL7)
 
 
 
