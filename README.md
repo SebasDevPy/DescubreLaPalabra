@@ -17,7 +17,8 @@ El juego comienza con una pantalla de inicio que, principalmente, pedirá tu nom
 
 
 
-[![pantalla-de-inicio.png](https://i.postimg.cc/CxJcfkQv/pantalla-de-inicio.png)](https://postimg.cc/tsZ3KZyP)
+[![pantalla-de-inicio.png](https://i.postimg.cc/CxJcfkQv/pantalla-de-inicio.png)](https://postimg.cc/tsZ3KZyP
+
 
 Después de pedirle al usuario su nickname, comenzará la "Pantalla de Juego". Aquí es donde se desarrollará toda la funcionalidad del juego. En esta pantalla se mostrará una palabra de 6 letras, la cual estará desordenada visualmente para el jugador. Estas letras estarán dibujadas como burbujas.
 
@@ -57,9 +58,7 @@ Comenzamos con la clase Inicio que inicializará atributos para:
 - un rectangulo**input box** que este sera donde el usuario podra escribir su name
 Estos atributos asegurarán que todos los elementos gráficos y de lógica estén preparados para la pantalla de inicio del juego.
 
-
-[![iniciar.png](https://i.postimg.cc/Kc0cJvHR/iniciar.png)](https://postimg.cc/PN8kqhhj)
-
+[![nuevaptanllainico.png](https://i.postimg.cc/pLzLM0Cc/nuevaptanllainico.png)](https://postimg.cc/BjZ0xBd2)
 
 
 - Seguiremos con el bucle de esta pantalla, que pertenecerá a un método de la clase Inicio. El while será la principal funcionalidad. Tomaremos los eventos, que serán las distintas acciones que hará la persona, y Pygame las interpretará como presionar teclas, mover el mouse, hacer clics, etc. Esto lo haremos con un for, iterando sobre los distintos eventos.
