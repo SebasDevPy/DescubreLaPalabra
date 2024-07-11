@@ -81,7 +81,7 @@ Estos atributos asegurarán que todos los elementos gráficos y de lógica esté
 -  mediante una funcion llamada **validar_espacioes** que si encuentra mas de un espacio(**" "**) en en el texto ingresado si pasa esta validacion se hara aviso al usario mediante un texto que se bliteara una determinda cordenada dentro del cuadro donde esta el rect y eliminaremos el texto ingresado,
 
 
-[![3.png](https://i.postimg.cc/sDtrNB9D/3.png)](https://postimg.cc/7fMdCZWp)
+[![1900.png](https://i.postimg.cc/GpbdwbH9/1900.png)](https://postimg.cc/Bj7d295G)
 
 
 ### clase_juego
