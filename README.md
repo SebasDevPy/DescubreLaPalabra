@@ -19,12 +19,12 @@ El juego comienza con una pantalla de inicio que, principalmente, pedirá tu nom
 
 [![pantalla-de-inicio.png](https://i.postimg.cc/CxJcfkQv/pantalla-de-inicio.png)](https://postimg.cc/tsZ3KZyP)
 
+Después de pedirle al usuario su nickname, comenzará la "Pantalla de Juego". Aquí es donde se desarrollará toda la funcionalidad del juego. En esta pantalla se mostrará una palabra de 6 letras, la cual estará desordenada visualmente para el jugador. Estas letras estarán dibujadas como burbujas.
 
-Después de pedirle al usuario su nickname, comenzará la "**Pantalla de Juego**". Aquí es donde se desarrollará toda la funcionalidad del juego. En esta pantalla se mostrará una palabra de 6 letras, la cual estará desordenada visualmente para el jugador. Estas letras estarán dibujadas como burbujas.
-
-Debajo de las burbujas, habrá un rectángulo que mostrará la puntuación (score) según las combinaciones acertadas, un temporizador que indicará el tiempo límite para acertar, un botón "**Submit**" para ingresar la combinación que el usuario haya formado, un botón "**Shuffle**" para alterar el orden de las letras aleatoriamente y un botón "**Clear**" para borrar las letras que el jugador haya formado.
+Debajo de las burbujas, habrá un rectángulo que mostrará la puntuación (score) según las combinaciones acertadas, un temporizador que indicará el tiempo límite para acertar, un botón "Submit" para ingresar la combinación que el usuario haya formado, un botón "Shuffle" para alterar el orden de las letras aleatoriamente, y un botón "Clear" para borrar las letras que el jugador haya formado.
 
 Por último, debajo de este rectángulo se mostrarán todas las palabras acertadas que el jugador haya formado. La partida finalizará cuando se acabe el tiempo o cuando ya no haya más palabras que formar.
+
 
 
 [![pantalla-del-juego.png](https://i.postimg.cc/mZ8kJrJv/pantalla-del-juego.png)](https://postimg.cc/s1G3Z3Vm)
